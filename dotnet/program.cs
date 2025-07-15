@@ -7,4 +7,3 @@ class Program
         Console.WriteLine("Hello, World!");
     }
 }
-https://github.com/Nira-Bohara/.NET.git
